@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abish-Pokharel](https://github.com/Abish-Pokharel)
 
-- 💬 Ask me about **PHP, C, C++**
+- 💬 Ask me about **PHP, C, C++, Flutter, Dart, MySQL**
 
 - 📫 How to reach me **abishpokh@gmail.com**
 
